@@ -2,7 +2,7 @@
 
 This repository currently holds an attempt to make a Bot for the site [SimpleMMO](https://web.simple-mmo.com).
 
-But ONLY for educational porpuses, to learn more about web scraping.
+But ONLY for educational porpuses, to learn more about web scraping and Selenium.
 
 It's not supposed to be used to play the game. 
 
